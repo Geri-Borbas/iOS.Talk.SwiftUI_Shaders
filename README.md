@@ -8,7 +8,7 @@ This session offers a general overview of shaders, explores useful mindsets thro
 
 ### Download
 
-Please find the [Keynote](https://github.com/Geri-Borbas/iOS.Talk.SwiftUI_Shaders/releases/download/Copenhagen-Cocoa/Creating-Dynamic-UI-Effects-with-SwiftUI-Shaders-Geri-Borbas.key) 👈 here.
+Please find the [Keynote](https://github.com/Geri-Borbas/iOS.Talk.SwiftUI_Shaders/releases/tag/Copenhagen-Cocoa) 👈 here.
 
 
 ### License
